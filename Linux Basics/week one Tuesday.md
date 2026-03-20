@@ -39,7 +39,7 @@ curl -X POST [options] [URL]
   ```
   $ ssh-keygen
   ```
-  ![[Pasted image 20260320135222.png]]
+ <img width="645" height="446" alt="image" src="https://github.com/user-attachments/assets/a208f032-0cda-4ba0-a5ab-12875ac7a2aa" />
 ## Testing a Connection
 
 - How to test if you can force a box to communicate back to you?
