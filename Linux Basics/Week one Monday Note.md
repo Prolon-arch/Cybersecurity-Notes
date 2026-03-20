@@ -4,7 +4,8 @@
  - Linux is renowned for its **flexibility, stability, security, and performance**, and it powers a vast range of devices
 ## Linux File System 
 - Linux Uses a tree-like structure with critical directories 
- <img width="645" height="446" alt="image" src="https://github.com/user-attachments/assets/a208f032-0cda-4ba0-a5ab-12875ac7a2aa" />
+<img width="802" height="457" alt="image" src="https://github.com/user-attachments/assets/736360db-853c-4568-976b-ec8ccab3e3b4" />
+
  
    1. / (root or The top-level directory is the root filesystem and contains all of the files required to boot the operating system before other filesystems are mounted, as well as the files required to boot the other filesystems. After boot, all of the other filesystems are mounted at standard mount points as subdirectories of the root)
    2. /bin, /sbin (essential binaries)
